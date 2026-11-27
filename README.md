@@ -30,7 +30,7 @@ Welcome to my GitHub profile!
 
 ### 🤝 Connect With Me
 - **LinkedIn:** [My LinkedIn Profile](YOUR_LINKEDIN_URL)
-- **GitHub:** [My GitHub Profile](YOUR_GITHUB_URL)
+- **GitHub:** https://github.com/deepikarajangam760-arch/DEEPIKA-R-/edit/main/README.md
 
 ---
 
